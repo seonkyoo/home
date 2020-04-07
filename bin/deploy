@@ -93,6 +93,10 @@ git push -f -q origin $DEPLOY_BRANCH
 # Move back to SRC_BRANCH
 git checkout $SRC_BRANCH
 
+git checkout source
+git branch -D master
+git branch -mv source master
+
 echo "Deployed successfully!"
 
 exit 0
