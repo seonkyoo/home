@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: A growing collection of your cool projects.
+description: 
 ---
 
 I study

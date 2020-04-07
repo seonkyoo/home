@@ -16,7 +16,7 @@ news: false
 social: false
 ---
 
-I am a postdoctoral associate in the Department of Earth Sciences at the University of Minnesota, Twin Cities. 
+I am a postdoctoral associate in the Department of Earth and Environmental Sciences at the University of Minnesota, Twin Cities. 
 
 My research centers on model-data fusion, combining process-based models with data-driven methods, to improve predictive capability and understanding of hydrogeological systems. I am currently working on inverse problems for subsurface characterization and anomalous transport in fractured media.
 
