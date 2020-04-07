@@ -12,16 +12,24 @@ profile:
     <p>116 Church Street SE</p>
     <p>Minneapolis, MN 55455</p>
 
-news: true
+news: false
 social: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral associate in the Department of Earth Sciences at the University of Minnesota, Twin Cities. 
+
+My research centers on model-data fusion, combining process-based models with data-driven methods, to improve predictive capability and understanding of hydrogeological systems. I am currently working on inverse problems for subsurface characterization and anomalous transport in fractured media.
+
+I received my Ph.D. from Massachusetts Institute of Technology in 2016. My PhD thesis was on developing computationally efficient subsurface flow models and inverse modeling methods to characterize hydrogeological parameters. 
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+
+<!-- 
 ---
 #### Education
 <ul>
@@ -52,3 +60,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     <li>2001 - 2003 Republic of Korea Army.</li>
 </ul>
 
+ -->
