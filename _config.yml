@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "url:"
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: April 2020 # leave blank if you don't want to display last updated
+last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -129,3 +129,5 @@ scholar:
 jquery_version: "1.12.4"
 katex_version: "0.9.0"
 anchorjs_version: "3.2.2"
+
+cvstyle:  davewhipp # [davewhipp | kjhealy]

@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Seonkyoo</strong> Yoon  
+title: <strong>Seonkyoo Yoon</strong>   
 description:  <a href="https://en.wikipedia.org/wiki/Hydrology">Hydrologist</a>   <a href="mailto:yoonx213@umn.edu"><i class="fas fa-envelope"></i></a> <!-- . Address. Contacts. Moto. Etc. -->
 
 profile:

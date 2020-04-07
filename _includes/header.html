@@ -3,10 +3,13 @@
   <div class="wrapper">
 
     {% if page.layout != "about" %}
-    <span class="site-title">
-        {% assign name = site.name | split: ' ' %}
-        <strong>{{ name | first }}</strong> {{ name | last }}
-    </span>
+      {% if page.layout != "cv" %}
+      <span class="site-title">
+          {% assign name = site.name | split: ' ' %}
+          <!-- {{ name | first }} {{ name | last }} -->
+          <strong>{{ name | first }}</strong> {{ name | last }}
+      </span>
+      {% endif %}
     {% endif %}
 
     <nav class="site-nav">
