@@ -6,13 +6,16 @@ description:
 ---
 
 # Seonkyoo Yoon
-Hydrologist, Ph.D.
+Hydrology, Ph.D.
 
+[https://seonkyoo.github.io](/)
+
+<!-- 
 <div id="webaddress">
 <a href="https://seonkyoo.github.io">https://seonkyoo.github.io</a>
-<!-- | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> -->
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> 
 </div>
-
+-->
 
 ## Currently
 
