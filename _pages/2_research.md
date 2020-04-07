@@ -6,6 +6,7 @@ description: A growing collection of your cool projects.
 ---
 
 I study
+
 <!-- {% for project in site.projects %}
 
 {% if project.redirect %}
