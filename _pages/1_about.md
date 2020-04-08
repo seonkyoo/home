@@ -13,7 +13,7 @@ profile:
     <p>116 Church Street SE</p>
     <p>Minneapolis, MN 55455</p>
 
-news: false
+news: true
 social: false
 ---
 
