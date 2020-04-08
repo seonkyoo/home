@@ -5,7 +5,10 @@ permalink: /research/
 description: 
 ---
 
-I study
+to be updated
+<!-- My research centers on the interface between physical and data sciences, aiming at improving fundamental understanding and characterizing uncertainty of flow, transport, and reaction in hydrological systems. I combine theoretical and computaional approaches such as fluid dynamics, extreme value theory, Bayesian anlysis, fractals, stochastic modeling, deep learning, and computational fluid mechanics.  -->
+
+<!-- I currently study anomalous transport and mixing-induced reaction in rough fractures.  -->
 
 <!-- {% for project in site.projects %}
 

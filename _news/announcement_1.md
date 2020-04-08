@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-3-14 
 inline: true
 ---
 
-A simple inline announcement.
+Due to COVID-19 pandemic, UMN is shutdown and I can only be reached by [email](mailto:{{ site.email | encode_email }}).
