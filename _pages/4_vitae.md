@@ -9,7 +9,7 @@ description:
 Ph.D. in Hydrology
 - email: [yoonx213@umn.edu](mailto:{{ site.email | encode_email }})
 - homepage: [https://seonkyoo.github.io](/)
-- phone: +1 617.852.8197
+<!-- - phone: +1 617.852.8197 -->
 
 
 
