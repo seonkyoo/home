@@ -103,9 +103,13 @@ A list is available in ["Publications"](/publications)
 `SP 2016` Teaching Assitant @ MIT
 - (Course title: Engineering Computation & Data Science)
 
-`2009-2010` Researcher
+`2009-2010` Post-master Researcher @ KICT
 - Water Resources Division
-- Korea Institute of Construction Technology, Ilsan, South Korea
+- Korea Institute of Construction Technology
+- Ilsan, South Korea
+
+`FA 2007` Teaching Assitant @ Yonsei
+- (Course title: Fluid Mechanics)
 
 `2001-2003` Republic of Korea Army
 - Served as a signals operator
