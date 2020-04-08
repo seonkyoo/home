@@ -6,9 +6,13 @@ description:
 ---
 
 # Seonkyoo Yoon
-Hydrology, Ph.D.
+Ph.D. in Hydrology
+- email: [yoonx213@umn.edu](mailto:{{ site.email | encode_email }})
+- homepage: [https://seonkyoo.github.io](/)
+- phone: +1 617.852.8197
 
-[https://seonkyoo.github.io](/)
+
+
 
 <!-- 
 <div id="webaddress">
@@ -17,11 +21,13 @@ Hydrology, Ph.D.
 </div>
 -->
 
-## Currently
+<!-- ## Currently -->
 
-Standing on the shoulders of giants
+<!-- I am a post-doctoral associate working with professor [Peter Kang](https://pkkang.com/home) at the university of Minnesota. My research centers on the interface between physical and data sciences, aiming at improving fundamental understanding and characterizing uncertainty of flow, transport, and reaction in hydrological systems. I combine theoretical and computaional approaches such as fluid dynamics, extreme value theory, Bayesian anlysis, fractals, stochastic modeling, deep learning, and computational fluid mechanics.  -->
 
-### Specialized in
+<!-- I currently study anomalous transport and mixing-induced reaction in rough fractures.  -->
+
+<!-- ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
@@ -29,105 +35,82 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
+ -->
+
+
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011-2016` __Ph.D. in Hydrology__
+- Civil & Environmental Engineering, MIT
+- Cambridge, MA, USA
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2007-2009` __M.S. in Water Resources__
+- Civil & Environmental Engineering, Yonsei University
+- Seoul, South Korea
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2000-2007` __B.S. in Civil Engineering__
+- Civil & Environmental Engineering, Yonsei University
+- Seoul, South Korea
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2016` MIT Energy Initiative Research Seed Fund ($150,000)
+- [(http://energy.mit.edu/news/mit-energy-initiative-awards-nine-seed-fund-grants-for-early-stage-energy-research/)](http://energy.mit.edu/news/mit-energy-initiative-awards-nine-seed-fund-grants-for-early-stage-energy-research/)
 
-Associate, *French Academy of Science*, Paris, France
+`2013` MIT Energy Initiative Fellowship, ENI
+
+`2011` Schoettler Scholarship, MIT
+
+`2011` Korean Government Scholarship for Abroad Study, South Korea
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is available in ["Publications"](/publications)
 
-### Journals
+<!-- ### Journals -->
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+<!-- `1669` -->
+<!-- Newton Sir I, De analysi per æquationes numero terminorum infinitas.  -->
 
-`1669`
-Lectiones opticæ.
+<!-- `1669` -->
+<!-- Lectiones opticæ. -->
 
-etc. etc. etc.
+<!-- etc. etc. etc. -->
 
-### Patents
+<!-- ### Patents -->
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge Universitydsafasasdfsdaf__Lucasian professor of Mathematics__, Cambridge Universitydsafasasdfsdaf__Lucasian professor of Mathematics__, Cambridge Universitydsafasasdfsdaf__Lucasian professor of Mathematics__, Cambridge Universitydsafasasdfsdaf__Lucasian professor of Mathematics__, Cambridge Universitydsafasasdfsdaf__Lucasian professor of Mathematics__, Cambridge Universitydsafasasdfsdaf__Lucasian professor of Mathematics__, Cambridge Universitydsafasasdfsdaf__Lucasian professor of Mathematics__, Cambridge Universitydsafasasdfsdaf
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+<!-- `2012` -->
+<!-- Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
 
 
 
-<!-- ### Footer
+## Experiences
 
-Last updated: May 2013 -->
+`2018-2020` Post-doctoral Associate @ UMN
+
+`SP 2020` Guest Lecturer @ UMN
+- (Lecture title: Groundwater Flow & Modeling)
+
+`2016-2018` Post-doctoral Associate @ MIT
+
+`SP 2016` Teaching Assitant @ MIT
+- (Course title: Engineering Computation & Data Science)
+
+`2009-2010` Researcher
+- Water Resources Division
+- Korea Institute of Construction Technology, Ilsan, South Korea
+
+`2001-2003` Republic of Korea Army
+- Served as a signals operator
+
+
+#### `Last updated: April 2020`
 
 

@@ -78,7 +78,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 1
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -130,4 +130,4 @@ jquery_version: "1.12.4"
 katex_version: "0.9.0"
 anchorjs_version: "3.2.2"
 
-cvstyle:  davewhipp # [davewhipp | kjhealy]
+cvstyle:  kjhealy # [davewhipp | kjhealy]
