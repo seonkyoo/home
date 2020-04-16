@@ -3,6 +3,7 @@ layout: cv
 permalink: /vitae/ 
 title: Vitae
 description: 
+years: [In Review, 2020, 2017, 2016, 2013, 2010]
 ---
 
 # Seonkyoo Yoon
@@ -72,22 +73,17 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Publications
 
-A list is available in ["Publications"](/publications)
+`2020` 
+__Yoon, S.__, Lee, S., Williams, J. R., & Kang, P. K. (2020). Effects of variable-density flow on the value-of-information of pressure and concentration data for aquifer characterization. *Advances in Water Resources*, 135, 103468.
 
-<!-- ### Journals -->
+`2017` __Yoon, S.__, Williams, J. R., Juanes, R., & Kang, P. K. (2017). Maximizing the value of pressure data in saline aquifer characterization. *Advances in Water Resources*, 109, 14-28.
 
-<!-- `1669` -->
-<!-- Newton Sir I, De analysi per æquationes numero terminorum infinitas.  -->
 
-<!-- `1669` -->
-<!-- Lectiones opticæ. -->
+`2016` __Yoon, S.__, Alghareeb, Z. M., & Williams, J. R. (2016). Hyper-reduced-order models for subsurface flow simulation. *SPE Journal*, 21(06), 2-128.
 
-<!-- etc. etc. etc. -->
+`2013` Veneziano, D., & __Yoon, S__. (2013). Rainfall extremes, excesses, and intensity‐duration‐frequency curves: A unified asymptotic framework and new nonasymptotic results based on multifractal measures. *Water Resources Research*, 49(7), 4320-4334.
 
-<!-- ### Patents -->
-
-<!-- `2012` -->
-<!-- Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
+`2010` __Yoon, S.__, Cho, W., Heo, J. H., & Kim, C. E. (2010). A full Bayesian approach to generalized maximum likelihood estimation of generalized extreme value distribution. *Stochastic Environmental Research and Risk Assessment*, 24(5), 761-770.
 
 
 
