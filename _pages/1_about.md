@@ -21,7 +21,7 @@ I am a post-doctoral associate in the Department of Earth and Environmental Scie
 
 <!-- My research centers on model-data fusion, combining process-based models with data-driven methods, to improve predictive capability and understanding of hydrogeological systems.  -->
 
-My research centers on the integration of physical and data sciences, aiming at improving fundamental understanding and characterizing uncertainty of flow, transport, and reaction in hydrological systems. I combine theoretical and computaional approaches such as extreme value theory, Bayesian anlysis, fractals, stochastic modeling, machine learning, and computational fluid dynamics. I currently study anomalous transport and mixing-induced reaction in fractured media, and inverse problems for characterizing mass transoprt in heterogeneous media.
+My research centers on the integration of physical and data sciences, aiming at improving fundamental understanding and characterizing uncertainty of flow, transport, and reaction in hydrological systems. I combine theoretical and computational approaches such as extreme value theory, Bayesian analysis, fractals, stochastic modeling, machine learning, and computational fluid dynamics. I currently study anomalous transport and mixing-induced reaction in fractured media, and inverse problems for characterizing mass transport in heterogeneous media.
 
 
 I received my Ph.D. from Massachusetts Institute of Technology in 2016. My PhD thesis was on developing computationally efficient subsurface flow models and inverse modeling methods to characterize hydrogeological parameters. 
