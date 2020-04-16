@@ -1,4 +1,5 @@
 _site
+*pptx
 .sass-cache
 .jekyll-metadata
 .DS_store
