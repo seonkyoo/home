@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Seonkyoo Yoon
+title: Seonkyoo Yoon
 email: yoonx213@umn.edu
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -131,3 +131,4 @@ katex_version: "0.9.0"
 anchorjs_version: "3.2.2"
 
 cvstyle:  kjhealy # [davewhipp | kjhealy]
+
