@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /vitae/ 
+permalink: /cv/ 
 title: Vitae
 description: 
 years: [In Review, 2020, 2017, 2016, 2013, 2010]

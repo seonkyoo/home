@@ -1,13 +1,13 @@
 # Jobs
-# UMN
-- company: University of Minnesota, Twin Cities
+# ongoing funded research
+- company: Contributions to Ongoing Funded Research
   position1: Post-doctoral Associate
   duration1: 2018 &mdash; Present
   advisor1: "Advisor: Peter Kang"
   summary1: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# MIT
-- company: Massachusetts Institue of Technology
+# prior funded research
+- company: Contributions to Prior Funded Research
   position1: Post-doctoral Associate
   duration1: 2016 &mdash; 2018
   advisor1: "Advisor: John R. Williams"
@@ -24,16 +24,10 @@
   summary3: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 
-# KICT
-- company: Korea Institute of Construction Technology
+# submitted research
+- company: Contributions to Submitted Grants
   position1: Post-master Researcher
   duration1: 2009 &mdash; 2010
   # advisor1: "Advisor: Peter Kang"
   summary1: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Yonsei
-- company: Yonsei University
-  position1: Graduate Research Assistant
-  duration1: 2007 &mdash; 2009
-  # advisor1: "Advisor: Peter Kang"
-  summary1: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
