@@ -137,9 +137,9 @@ cvstyle:  kjhealy # [davewhipp | kjhealy]
 # -----------------------------------------------------------------------------
 # Resume settings
 # -----------------------------------------------------------------------------
-# sass:
-#   sass_dir: _sass
-#   style: compressed
+sass:
+  sass_dir: _sass
+  style: compressed
 
 resume_avatar:                  "false"
 resume_name:                    "Seonkyoo Yoon"
