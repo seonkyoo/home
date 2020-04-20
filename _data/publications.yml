@@ -1,17 +1,24 @@
 # Publications
-- year: In Review
+- year: In Prep.
+  title: Anomalous Reactive Transport in Rough Channels
+  journal: <i>Physical Review Fluids</i>
+  volume: 
+  page: 
+  authors: <ins>Yoon, S.</ins>, & Kang, P. K.
+
+- year: In Prep.
   title: Optimal fluid stretching for mixing-limited reaction in rough channels
   journal: <i>Journal of Fluid Mechanics</i>
   volume: 
   page: 
-  authors: <ins>Yoon, S.</ins>, Dentz, Marco, & Kang, P. K.
+  authors: <ins>Yoon, S.</ins>, Dentz, M., & Kang, P. K.
 
-- year: In Review
+- year: Submitted
   title: Roughness, inertia, and diffusion effects on anomalous transport in rough fractures
   journal: <i>Geophysical Research Letters</i>
   volume: 
   page: 
-  authors: <ins>Yoon, S.</ins> & Kang, P. K.
+  authors: <ins>Yoon, S.</ins>, & Kang, P. K.
 
 - year: 2020
   title: Effects of variable-density flow on the value-of-information of pressure and concentration data for aquifer characterization
@@ -39,7 +46,7 @@
   journal: <i>Water Resources Research</i>,
   volume: 49(7),
   page: 4320&mdash;4334
-  authors: Veneziano, D. & <ins>Yoon, S.</ins>
+  authors: Veneziano, D., & <ins>Yoon, S.</ins>
 
 - year: 2010
   title: A full Bayesian approach to generalized maximum likelihood estimation of generalized extreme value distribution

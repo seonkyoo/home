@@ -1,0 +1,13 @@
+# Fellowships
+- service: Ad Hoc Reviewer
+  organization1: Stochastic Environmental Research and Risk Assessment
+  year1: 2010
+  organization2: International Journal of Greenhouse Gas Control
+  year2: 2017
+  # summary: $60,000
+
+- service: Training Seminar Speaker
+  organization1: Fourth Midwest OpenFOAM User Group Meeting
+  year1: 2019
+  summary: Delivered 30-minute lecture with interactive components designed for training how to use Lagrangian solvers in OpenFOAM for particulate flow 
+

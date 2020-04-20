@@ -178,18 +178,35 @@
           <h2>Publications</h2>
         </header>
 
+        <h3 class="resume-item-title">Publised in peer-reviewed jounals</h3>
         {% for y in page.years %}
-          <h3 class="resume-item-title">{{y}}</h3>
           {% for publications in site.data.publications %}
             {% if {{publications.year}} == {{y}} %}
-              <div class="resume-item">
-                <p class="resume-item-copy"><strong>{{publications.title}}</strong><br>{{publications.authors}}<br>{{publications.journal}} {{publications.volume}} {{ publications.page }}</p>
-              </div>
+            <div class="resume-item">
+              <p class="resume-item-copy">{{publications.authors}},  ({{publications.year}}), {{publications.title}}. {{publications.journal}}, {{publications.volume}}, {{ publications.page }}</p>
+            </div>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+
+
+        <h3 class="resume-item-title">Submitted Manuscripts</h3>
+          {% for publications in site.data.publications %}
+            {% if {{publications.year}} == "Submitted" %}
+            <div class="resume-item">
+              <p class="resume-item-copy">{{publications.authors}},  ({{publications.year}}), {{publications.title}}. {{publications.journal}}, {{publications.volume}}, {{ publications.page }}</p>
+            </div>
             {% endif %}
           {% endfor %}
 
-
-        {% endfor %}
+        <h3 class="resume-item-title">Manuscripts in Preparation</h3>
+          {% for publications in site.data.publications %}
+            {% if {{publications.year}} == "In Prep." %}
+            <div class="resume-item">
+              <p class="resume-item-copy">{{publications.authors}},  ({{publications.year}}), {{publications.title}}. {{publications.journal}}, {{publications.volume}}, {{ publications.page }}</p>
+            </div>
+            {% endif %}
+          {% endfor %}
 
       </section>
       <!-- end Publications -->
@@ -228,7 +245,30 @@
 
 
 
+      {% if site.resume_section_service %}
+      <!-- begin Fellowships -->
+      <section class="content-section">
 
+        <header class="section-header">
+          <h2>Service & Outreach</h2>
+        </header>
+
+        {% for service in site.data.service %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{{ service.service }}</h3>
+          <h4 class="resume-item-details">{{ service.organization1 }} &bull; {{ service.year1 }}</h4>
+          {% if service.organization2 %}
+            <h4 class="resume-item-details">{{ service.organization2 }} &bull; {{ service.year2 }}</h4>
+
+          {% endif %}
+          <p class="resume-item-copy">{{ service.summary }}</p>
+
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Recognition -->
+      {% endif %}
 
 
 

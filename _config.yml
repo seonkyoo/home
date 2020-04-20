@@ -173,6 +173,7 @@ resume_section_fellowships:     true
 resume_section_honors:          true
 resume_section_publications:    true
 resume_section_teaching:        true
+resume_section_service:         true
 # resume_section_mentoring:       true
 # resume_section_service:         true
 # resume_section_presentations:   true
