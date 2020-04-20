@@ -183,7 +183,7 @@
           {% for publications in site.data.publications %}
             {% if {{publications.year}} == {{y}} %}
             <div class="resume-item">
-              <p class="resume-item-copy">{{publications.authors}},  ({{publications.year}}), {{publications.title}}. {{publications.journal}}, {{publications.volume}}, {{ publications.page }}</p>
+              <p class="resume-item-copy">{{publications.authors}},  ({{publications.year}}). {{publications.title}}. {{publications.journal}} {{publications.volume}} {{ publications.page }}</p>
             </div>
             {% endif %}
           {% endfor %}
@@ -194,7 +194,7 @@
           {% for publications in site.data.publications %}
             {% if {{publications.year}} == "Submitted" %}
             <div class="resume-item">
-              <p class="resume-item-copy">{{publications.authors}},  ({{publications.year}}), {{publications.title}}. {{publications.journal}}, {{publications.volume}}, {{ publications.page }}</p>
+              <p class="resume-item-copy">{{publications.authors}},  ({{publications.year}}). {{publications.title}}. </p>
             </div>
             {% endif %}
           {% endfor %}
@@ -203,7 +203,7 @@
           {% for publications in site.data.publications %}
             {% if {{publications.year}} == "In Prep." %}
             <div class="resume-item">
-              <p class="resume-item-copy">{{publications.authors}},  ({{publications.year}}), {{publications.title}}. {{publications.journal}}, {{publications.volume}}, {{ publications.page }}</p>
+              <p class="resume-item-copy">{{publications.authors}},  ({{publications.year}}). {{publications.title}}. </p>
             </div>
             {% endif %}
           {% endfor %}
@@ -427,7 +427,7 @@
 
       <footer class="page-footer">
         <!-- <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-         --><p class="footer-line">Last update: April 19, 2020</p>
+         --><p class="footer-line">Last update: {{site.last_updated}}</p>
       </footer>
 
     </div>
