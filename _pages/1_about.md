@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Seonkyoo </strong> Yoon  
-description: Ph.D. in <a href="https://en.wikipedia.org/wiki/Hydrology" target="_blank" >Hydrology</a>, <a href="mailto:yoonx213@umn.edu"><i class="fas fa-envelope"></i></a> <!-- . Address. Contacts. Moto. Etc. -->
+description: Ph.D. <a href="https://en.wikipedia.org/wiki/Hydrology" target="_blank" >Hydrology</a>, <a href="mailto:yoonx213@umn.edu"><i class="fas fa-envelope"></i></a> <!-- . Address. Contacts. Moto. Etc. -->
 
 
 profile:

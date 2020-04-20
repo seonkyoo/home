@@ -171,7 +171,7 @@
 
 
       {% if site.resume_section_publications %}
-      <!-- begin Skills -->
+      <!-- begin Publications -->
       <section class="content-section">
 
         <header class="section-header">
@@ -183,7 +183,7 @@
           {% for publications in site.data.publications %}
             {% if {{publications.year}} == {{y}} %}
               <div class="resume-item">
-                <p class="resume-item-copy"><b>{{publications.title}}</b><br>{{publications.authors}}<br>{{publications.journal}} {{publications.volume}} {{ publications.page }}</p>
+                <p class="resume-item-copy"><strong>{{publications.title}}</strong><br>{{publications.authors}}<br>{{publications.journal}} {{publications.volume}} {{ publications.page }}</p>
               </div>
             {% endif %}
           {% endfor %}
@@ -192,8 +192,55 @@
         {% endfor %}
 
       </section>
-      <!-- end Skills -->
+      <!-- end Publications -->
       {% endif %}
+
+
+      {% if site.resume_section_teaching %}
+      <!-- begin Teaching Experience -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Teaching Experience</h2>
+        </header>
+
+        {% for job in site.data.teaching %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position1 }} &bull; {{ job.duration1 }}</h4>
+          <p class="resume-item-copy">Course: {{ job.course1 }}<br>Responsibilities: {{ job.summary1 }}</p>
+          {% if job.position2 %}
+            <h4 class="resume-item-details" itemprop="description">{{ job.position2 }} &bull; {{ job.duration2 }}</h4>
+            <p class="resume-item-copy">Course: {{ job.course2 }}<br>Responsibilities: {{ job.summary2 }}</p>
+          {% endif %}
+
+          {% if job.position3 %}
+            <h4 class="resume-item-details" itemprop="description">{{ job.position3 }} &bull; {{ job.duration3 }}</h4>
+            <p class="resume-item-copy">Course: {{ job.course3 }}<br>Responsibilities: {{ job.summary3 }}</p>
+          {% endif %}
+
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Research Experience -->
+      {% endif %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
      {% if site.resume_section_skills %}
@@ -339,8 +386,8 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <!-- <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
+         --><p class="footer-line">Last update: April 19, 2020</p>
       </footer>
 
     </div>
