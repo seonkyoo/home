@@ -1,33 +1,36 @@
 # Jobs
 # ongoing funded research
-- company: Contributions to Ongoing Funded Research
-  # position1: Post-doctoral Associate
-  # duration1: 2018 &mdash; Present
-  # advisor1: "Advisor: Peter Kang"
-  # summary1: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
+- category: Contributions to Ongoing Funded Research
+  title1: "Title: "
+  duration1: 2018 &mdash; 2022
+  advisor1: "Principal investigator: Peter K. Kang"
+  institute1: NSF
+  role1: "Role: I assisted in developing this funded NSF proposal in the aspect of flow and transport modeling in fractured hydrogeologic media. I  provided preliminary data and wrote the grant with Dr. Kang." 
+  fund1: 
+  
 # prior funded research
-- company: Contributions to Prior Funded Research
-  # position1: Post-doctoral Associate
-  # duration1: 2016 &mdash; 2018
-  # advisor1: "Advisor: John R. Williams"
-  # summary1: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-  # position2: Graduate Research Assitant
-  # duration2: 2013 &mdash; 2016
-  # advisor2: "Advisor: John R. Williams"
-  # summary2: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-  # position3: Graduate Research Assitant
-  # duration3: 2011 &mdash; 2013
-  # advisor3: "Advisor: Daniele Veneziano"
-  # summary3: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- category: Contributions to Prior Funded Research
+    # (http://energy.mit.edu/news/mit-energy-initiative-awards-nine-seed-fund-grants-for-early-stage-energy-research/)
+  title1: "Title: Efficient Ensemble-based Closed-loop Oil Reservoir Management Using Hyper-reduced-order Models "
+  duration1: 2016 &mdash; 2018
+  advisor1: "Principal investigator: John R. Williams"
+  institute1: MIT Energy Initiative Research Seed Fund 
+  role1: "Role: My Ph.D. work on hyper-reduced order models was the basis of this proposal. I provided preliminary data and wrote the grant with Dr. Williams." 
+  fund1: $150,000
+  
+  title2: "Title: Developing multi-tracer approach for identifying flow connectivity"
+  duration2: 2018 
+  advisor2: "Principal investigator: John R. Williams"
+  institute2: Korea Institute of Science and Technology Internal Research Fund
+  role2: "Role: My Ph.D. work on ensemble-based inverse modeling of subsurface flow model was the basis of this proposal. I provided preliminary data and wrote the grant with Dr. Kang and Dr. Williams." 
+  fund2: $45,000
 
 
 # submitted research
-- company: Contributions to Submitted Grants
-  # position1: Post-master Researcher
-  # duration1: 2009 &mdash; 2010
-  # # advisor1: "Advisor: Peter Kang"
-  # summary1: <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
+- category: Contributions to Submitted Grants
+  title1: "Title: "
+  duration1: 2019 
+  advisor1: "Principal investigator: Peter K. Kang"
+  institute1: ACS PRF
+  role1: "Role: I assisted in developing this funded NSF proposal in the aspect of flow and transport modeling in fractured hydrogeologic media. I  provided preliminary data and wrote the grant with Dr. Kang." 
+  fund1: 

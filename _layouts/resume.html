@@ -120,22 +120,41 @@
           <h2>Research Grants</h2>
         </header>
 
-        {% for job in site.data.grants %}
+        {% for grant in site.data.grants %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ job.position1 }} &bull; {{ job.duration1 }}</h4>
-          <p class="resume-item-copy">{{ job.advisor1 }}</p>
-          <p class="resume-item-copy">{{ job.summary1 }}</p>
-          {% if job.position2 %}
-            <h4 class="resume-item-details" itemprop="description">{{ job.position2 }} &bull; {{ job.duration2 }}</h4>
-            <p class="resume-item-copy">{{ job.advisor2 }}</p>
-            <p class="resume-item-copy">{{ job.summary2 }}</p>
+          <h3 class="resume-item-title" itemprop="name">{{ grant.category }}</h3>
+          <h4 class="resume-item-details" itemprop="description"> {{ grant.institute1 }} &bull; {{ grant.duration1 }}</h4>
+          <p class="resume-item-copy">
+            <ul class="resume-item-list">
+                <li> {{ grant.advisor1 }} </li>
+                <li> {{ grant.title1 }} </li>
+                <li> {{ grant.role1 }} </li>
+                <li> {{ grant.fund1 }} </li>
+            </ul>
+          </p>
+          {% if grant.title2 %}
+            <h4 class="resume-item-details" itemprop="description"> {{ grant.institute2 }} &bull; {{ grant.duration2 }}</h4>
+            <p class="resume-item-copy">
+              <ul class="resume-item-list">
+                  <li> {{ grant.advisor2 }} </li>
+                  <li> {{ grant.title2 }} </li>
+                  <li> {{ grant.role2 }} </li>
+                  <li> {{ grant.fund2 }} </li>
+              </ul>
+            </p>
           {% endif %}
 
-          {% if job.position3 %}
-            <h4 class="resume-item-details" itemprop="description">{{ job.position3 }} &bull; {{ job.duration3 }}</h4>
-            <p class="resume-item-copy">{{ job.advisor3 }}</p>
-            <p class="resume-item-copy">{{ job.summary3 }}</p>
+          {% if grant.title3 %}
+            <h3 class="resume-item-title" itemprop="name">{{ grant.category }}</h3>
+            <h4 class="resume-item-details" itemprop="description"> {{ grant.institute3 }} &bull; {{ grant.duration3 }}</h4>
+            <p class="resume-item-copy">
+              <ul class="resume-item-list">
+                  <li> {{ grant.advisor3 }} </li>
+                  <li> {{ grant.title3 }} </li>
+                  <li> {{ grant.role3 }} </li>
+                  <li> {{ grant.fund3 }} </li>
+              </ul>
+            </p>
           {% endif %}
 
         </div><!-- end of resume-item -->
