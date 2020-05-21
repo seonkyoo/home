@@ -17,14 +17,18 @@ news: true
 social: false
 ---
 
-I am a post-doctoral associate in the Department of Earth and Environmental Sciences at the University of Minnesota, Twin Cities.
+
+I am a post-doctoral associate in the Department of Earth and Environmental Sciences at the University of Minnesota, Twin Cities. I earned my Ph.D in 2016 from the Dept. of Civil and Environmental Engineering at Massachusetts Institute of Technology. 
+<!-- I also hold a B.S. and M.S. in Civil Engineering from Yonsei University (South Korea).  -->
+My Ph.D. thesis was on developing computationally efficient subsurface flow models and inverse modeling methods to characterize hydrogeological parameters. 
+
+<!-- My research centers on model-data fusion, combining process-based models with data-driven methods, to improve predictive capability and understanding of hydrogeological systems. I currently study anomalous and reactive transport in fractured hydrogelogic media. -->
 
 <!-- My research centers on model-data fusion, combining process-based models with data-driven methods, to improve predictive capability and understanding of hydrogeological systems.  -->
 
-My research centers on the integration of physical and data sciences, aiming at improving fundamental understanding and characterizing uncertainty of flow, transport, and reaction in hydrological systems. I combine theoretical and computational approaches such as extreme value theory, Bayesian analysis, fractals, stochastic modeling, machine learning, and computational fluid dynamics. I currently study anomalous transport and mixing-induced reaction in fractured media, and inverse problems for characterizing mass transport in heterogeneous media.
+My research centers on the integration of physical and data sciences, aiming at improving fundamental understanding and predictive capability of hydrogeological systems. I combine theoretical and computational approaches such as extreme value theory, fractals, Bayesian analysis, stochastic modeling, machine learning, and computational fluid dynamics. 
 
 
-I received my Ph.D. from Massachusetts Institute of Technology in 2016. My PhD thesis was on developing computationally efficient subsurface flow models and inverse modeling methods to characterize hydrogeological parameters. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 

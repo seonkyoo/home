@@ -1,9 +1,11 @@
 # Fellowships
 - service: Ad Hoc Reviewer
-  organization1: International Journal of Greenhouse Gas Control
-  year1: 2017
-  organization2: Stochastic Environmental Research and Risk Assessment
-  year2: 2010
+  organization1: Water Resources Research
+  year1: 2020
+  organization2: International Journal of Greenhouse Gas Control
+  year2: 2017
+  organization3: Stochastic Environmental Research and Risk Assessment
+  year3: 2010
   # summary: $60,000
 
 - service: Training Seminar Speaker
