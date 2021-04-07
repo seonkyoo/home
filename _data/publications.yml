@@ -1,15 +1,23 @@
 # Publications
+
 - year: In Prep.
-  title: Anomalous Reactive Transport in Rough Channels
+  title: Multi-source identification in DNAPL conatminated aquifer
   journal: <i>Physical Review Fluids</i>,
   volume: 
   page: 
   authors: <ins>Yoon, S.</ins>, & Kang, P. K.
 
 - year: Submitted
-  title: Optimal fluid stretching for mixing-limited reaction in rough channel flows
-  journal: <i>Journal of Fluid Mechanics</i>,
+  title: "Mixing-induced bimolecular reactive transport in rough rough channel flows: Pore-scale simulation and stochastic upscaling"
+  journal: <i>Transport in Porous Media</i>,
   volume: 
+  page: 
+  authors: <ins>Yoon, S.</ins>, & Kang, P. K.
+
+- year: 2021
+  title: Optimal fluid stretching for mixing-limited reaction in rough channel flows
+  journal: <i>Journal of Fluid Mechanics</i>
+  volume:
   page: 
   authors: <ins>Yoon, S.</ins>, Dentz, M., & Kang, P. K.
 
