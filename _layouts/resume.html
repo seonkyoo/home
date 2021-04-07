@@ -129,7 +129,9 @@
                 <li> {{ grant.advisor1 }} </li>
                 <li> {{ grant.title1 }} </li>
                 <li> {{ grant.role1 }} </li>
+                {% if grant.fund1%}
                 <li> {{ grant.fund1 }} </li>
+                {% endif %}
             </ul>
           </p>
           {% if grant.title2 %}
@@ -139,20 +141,23 @@
                   <li> {{ grant.advisor2 }} </li>
                   <li> {{ grant.title2 }} </li>
                   <li> {{ grant.role2 }} </li>
+                  {% if grant.fund2%}
                   <li> {{ grant.fund2 }} </li>
+                  {% endif %}
               </ul>
             </p>
           {% endif %}
 
           {% if grant.title3 %}
-            <h3 class="resume-item-title" itemprop="name">{{ grant.category }}</h3>
             <h4 class="resume-item-details" itemprop="description"> {{ grant.institute3 }} &bull; {{ grant.duration3 }}</h4>
             <p class="resume-item-copy">
               <ul class="resume-item-list">
                   <li> {{ grant.advisor3 }} </li>
                   <li> {{ grant.title3 }} </li>
                   <li> {{ grant.role3 }} </li>
+                  {% if grant.fund3%}
                   <li> {{ grant.fund3 }} </li>
+                  {% endif %}
               </ul>
             </p>
           {% endif %}

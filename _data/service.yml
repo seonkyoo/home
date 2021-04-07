@@ -11,5 +11,5 @@
 - service: Training Seminar Speaker
   organization1: Fourth Midwest OpenFOAM User Group Meeting
   year1: 2019
-  summary: Delivered 30-minute lecture with interactive components designed for training how to use Lagrangian solvers in OpenFOAM for particulate flow 
+  summary: Delivered a lecture with interactive components designed for training engineers and researchers on how to use Lagrangian solvers in OpenFOAM for particulate flows
 
