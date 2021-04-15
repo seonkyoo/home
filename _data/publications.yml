@@ -15,10 +15,10 @@
   authors: <ins>Yoon, S.</ins>, & Kang, P. K.
 
 - year: 2021
-  title: Optimal fluid stretching for mixing-limited reaction in rough channel flows
-  journal: <i>Journal of Fluid Mechanics</i>
-  volume:
-  page: 
+  title: Optimal fluid stretching for mixing-limited reactions in rough channel flows
+  journal: <i>Journal of Fluid Mechanics</i>,
+  volume: "916,"
+  page: "A45" 
   authors: <ins>Yoon, S.</ins>, Dentz, M., & Kang, P. K.
 
 - year: 2021
@@ -46,7 +46,7 @@
   title: Hyper-reduced-order models for subsurface flow simulation
   journal: <i>SPE Journal</i>,
   volume: "21(06),"
-  page: 1&mdash;13
+  page: 2128&mdash;2140
   authors: <ins>Yoon, S.</ins>, Alghareeb, Z. M., & Williams, J. R.
 
 - year: 2013
